@@ -7,7 +7,7 @@ Project bootstrapped from [joeljuca/sandboxes](https://github.com/joeljuca/sandb
 Bootstrap yourself a pre-configured SQLite sandbox with:
 
 ```
-$ degit joeljuca/sandboxes/sqlite [sandbox name]
+$ npx degit joeljuca/sandboxes/sqlite [sandbox name]
 ```
 
 ## Setup

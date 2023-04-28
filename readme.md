@@ -13,7 +13,7 @@ Each dir is a sandbox. To use one, clone the Git repo in your machine, duplicate
 If you have Node.js installed, you can use [degit](https://www.npmjs.com/package/degit) to do the hard work for you:
 
 ```
-$ degit joeljuca/sandboxes/<sandbox-name> <dir-name>
+$ npx degit joeljuca/sandboxes/<sandbox-name> <dir-name>
 ```
 
 ### Makefiles
