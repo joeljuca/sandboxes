@@ -1,0 +1,11 @@
+; SQLFluff config file
+; See https://docs.sqlfluff.com/en/stable/configuration.html#defaultconfig
+
+[sqlfluff]
+encoding = utf-8
+dialect = sqlite
+templater = raw
+
+[sqlfluff:indentation]
+indent_unit = space
+tab_space_size = 2
