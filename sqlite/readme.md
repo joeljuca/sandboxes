@@ -38,13 +38,7 @@ First, you must activate your Python venv:
 $ source .venv/bin/activate
 ```
 
-Then, make use of the pre-defined `makefile` to do most of common tasks:
-
-```
-make <task name>
-```
-
-Here's a list of all tasks available:
+Then, just make use of the pre-defined `makefile` – there are tasks for the most common scenarios:
 
 - `make build`
 - `make lint`
@@ -53,6 +47,7 @@ Here's a list of all tasks available:
 - `make db.create`
 - `make db.migrate`
 - `make db.drop`
+- `make db.repl`
 - `make db.new_migration name=<migration name>`
 - `make db.setup` (alias for `make db.create && make db.migrate`)
 - `make db.reset` (alias for `make db.drop && make db.setup`)
