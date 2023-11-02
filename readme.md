@@ -1,6 +1,6 @@
 # Sandboxes
 
-[![Creative Commons Attribution 4.0 International License](https://i.creativecommons.org/l/by/4.0/80x15.png "Creative Commons Attribution 4.0 International License")](https://creativecommons.org/licenses/by/4.0/ "Creative Commons Attribution 4.0 International License")
+[![Licensed under ISC](https://img.shields.io/github/license/joeljuca/sandboxes "Licensed under ISC")](LICENSE)
 
 A collection of pre-configured sandboxes to experiment with different technologies.
 
@@ -36,4 +36,4 @@ Also, if the sandbox uses a database, the following tasks should also be present
 
 ## License
 
-Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+Licensed under [ISC](LICENSE)
