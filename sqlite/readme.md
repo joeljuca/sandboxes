@@ -1,6 +1,6 @@
 # Sandbox: SQLite
 
-[![Creative Commons Attribution 4.0 International License](https://i.creativecommons.org/l/by/4.0/80x15.png "Creative Commons Attribution 4.0 International License")](https://creativecommons.org/licenses/by/4.0/ "Creative Commons Attribution 4.0 International License")
+[![Licensed under ISC](https://img.shields.io/github/license/joeljuca/sandboxes "Licensed under ISC")](LICENSE)
 
 Project bootstrapped from [joeljuca/sandboxes](https://github.com/joeljuca/sandboxes), a collection of sandboxes for random experimentations.
 
@@ -54,4 +54,4 @@ Then, just make use of the pre-defined `makefile` – there are tasks for the mo
 
 ## License
 
-Copyright 2023 Joel Jucá. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+Licensed under [ISC](LICENSE)
