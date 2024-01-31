@@ -9,10 +9,10 @@ build:
 	pip3 install -r requirements.txt
 
 lint:
-	echo "Not implemented"
+	python3 -m black --check ./**.py
 
 fmt:
-	echo "Not implemented"
+	python3 -m black ./**.py
 
 test:
 	echo "Not implemented"
