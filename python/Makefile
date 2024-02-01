@@ -1,9 +1,7 @@
-.PHONY: setup build lint test
+.PHONY: setup build lint fmt test
 
 setup:
-	python3 -m venv .venv \
-	&& source .venv/bin/activate \
-	&& pip3 install -r requirements.txt
+	python3 -m venv .venv
 
 build:
 	pip3 install -r requirements.txt
